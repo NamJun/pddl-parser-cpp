@@ -14,7 +14,9 @@ The parser is implemented using boost::spirit.
 This is a CMake-based project. CMake can be used to generate Visual Studio Project files on Windows and Makefiles on Unix. On Ubuntu, do the following:
 
 `apt-get install cmake`
+
 `cd <ppcpp-root-dir>/build`
+
 `cmake .. && make`
 
 = Roadmap =
