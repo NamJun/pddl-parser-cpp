@@ -19,6 +19,8 @@ This is a CMake-based project. CMake can be used to generate Visual Studio Proje
 
 `cmake .. && make`
 
+A static library for the parser with .a extension is generated in `./ppcpp` directory. 
+
 = Roadmap =
 
   * Attach actions to the domain-parser to produce C++ objects.
